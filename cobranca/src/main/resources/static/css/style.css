@@ -1,0 +1,25 @@
+/* Tela grande */
+@media ( min-width : 768px) {
+	.panel-default {
+		margin-left: 12px;
+		margin-right: 12px;
+	}
+	.alert {
+		margin-left: 12px;
+		margin-right: 12px;
+	}
+}
+
+.navbar-brand {
+	padding-top: 12px;
+}
+
+.link-panel {
+	float: right;
+	padding: 0;
+}
+
+.titulo-panel {
+	float: left;
+	padding-top: 2px;
+}
